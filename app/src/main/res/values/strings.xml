@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P06 TaskManager</string>
+    <string name="add">Add Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+
+    <string name="notification_title">Task</string>
+    <string name="basic_notify_msg">1 Settle flour</string>
+
+</resources>
